@@ -5,8 +5,10 @@ public class Main {
 
         System.out.println("Hello,Rush");
 
-        System.out.println("Hello, Anupam");
+        System.out.println("Hello, Anupam,");
 
-        System.out.println("Programme");
+        System.out.println("Hello, java");
+
+
     }
 }
